@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+setup.cfg
+first_python_package.egg-info/PKG-INFO
+first_python_package.egg-info/SOURCES.txt
+first_python_package.egg-info/dependency_links.txt
+first_python_package.egg-info/top_level.txt

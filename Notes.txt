@@ -1,0 +1,2 @@
+- MANIFEST.in for sdist
+- package_data for wheel
